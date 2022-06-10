@@ -9,5 +9,6 @@ Private projects:
 - https://todo-app-portfolio.herokuapp.com/
 - https://satoshinakamoto.herokuapp.com/ (whatIf)
 - https://thebestquizapp.herokuapp.com/
+
 Comercial projects:
 - aws-iot-thingworx,  thingworx-cloud-connector-application-main package
