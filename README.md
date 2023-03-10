@@ -8,6 +8,7 @@ Private projects:
 - todo app
 - bitcoin lost calculator (whatIf)
 - quize app
+- project-pizzeria
 
 Comercial projects:
 - aws-iot-thingworx,  [thingworx-cloud-connector-application-main](https://github.com/MaciejKicinski/aws-iot-thingworx/tree/main/thingworx-cloud-connector-application-main) package
