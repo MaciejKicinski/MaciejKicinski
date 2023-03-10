@@ -10,4 +10,4 @@ Private projects:
 - quize app
 
 Comercial projects:
-- aws-iot-thingworx,  thingworx-cloud-connector-application-main package
+- aws-iot-thingworx,  [thingworx-cloud-connector-application-main](https://github.com/MaciejKicinski/aws-iot-thingworx/tree/main/thingworx-cloud-connector-application-main) package
