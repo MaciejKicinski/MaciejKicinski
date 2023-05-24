@@ -5,10 +5,7 @@
 - ⚡ Fun fact: You can’t see the great wall of china from space.
 
 Private projects:
-- todo app
-- bitcoin lost calculator (whatIf)
-- quize app
-- project-pizzeria
+- project-pizzeria https://project-pizzeria--maciejkicinski1.repl.co/
 
 Comercial projects:
 - aws-iot-thingworx,  [thingworx-cloud-connector-application-main](https://github.com/MaciejKicinski/aws-iot-thingworx/tree/main/thingworx-cloud-connector-application-main) package
